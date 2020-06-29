@@ -2,15 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
+- project: TodoList-React
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  duration: 2020 &mdash; Present
+  url: 'https://sergeevu4.github.io/TodoList-React/'
+  description: React
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: Star-Wars-React
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: 2020 &mdash; Present
+  url: 'https://sergeevu4.github.io/Star-Wars-React/'
+  description:
+    - Станицы: Персонажи, Планеты, Звездных корабли
+    - Показ рандомной планеты
+    - Вывод полной информации о каждом выбранном элементе списка
+    - Предусмотрена смена источника данных на локальные (моковые)
+    - Обработка ошибок
+    - Работа с паттернами React, React Context, и react-route
+
+- project: Star-Wars-React
+  role: Contributor
+  duration: 2020 &mdash; Present
+  url: 'https://sergeevu4.github.io/React-Movie/
+  description: React, Redux and output of Api data
